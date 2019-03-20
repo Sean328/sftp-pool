@@ -1,2 +1,2 @@
 # sftp-pool4j
-Java使用的轻量级sftp连接池
+Java实现和使用的轻量级sftp连接池
